@@ -22,42 +22,42 @@ These are related but distinct research lines. Presenting them together does not
 * **Author:** Piotr Dariusz Wójcik ([ORCID: 0009-0006-1439-4671](https://orcid.org/0009-0006-1439-4671))
 * **Publisher / research affiliation:** MRT Research
 
-Publication dates and version numbers below follow the linked Zenodo records. The links currently lead to the Zenodo copies; links to PDFs stored in this repository can be added after the corresponding files are uploaded.
+Publication dates and version numbers below follow the linked Zenodo records. The PDF links point to copies in this GitHub repository; the Zenodo links provide the reference records and DOI metadata.
 
-### 1. Variant 11, Structural Separation of Formal Occurrence and Real Determination in a Binary Boolean Function
+### 1. Variant 11: Structural Separation of Formal Occurrence and Real Determination in a Binary Boolean Function
 * **DOI:** [10.5281/zenodo.21457505](https://doi.org/10.5281/zenodo.21457505)
 * **Summary:** The binary Boolean function $f_{11}(p,q)=\neg q$ illustrates that formal two-variable presentation need not coincide with actual dependence on both variables. The function depends on $q$ alone, allowing a precise separation between formal occurrence and real determination.
 * **Published:** 20 July 2026
 * **Current version:** 1.0
-* **PDF:** [Zenodo record and download](https://zenodo.org/records/21457505)
+* **PDF:** [Open PDF on GitHub](papers/01-variant-11-structural-separation/Variant_11_Structural_Separation.pdf) · [Zenodo record](https://zenodo.org/records/21457505)
 
 ### 2. Minimal Reality, Volume I: The Minimal Structure of Change
 * **DOI:** [10.5281/zenodo.22820658](https://doi.org/10.5281/zenodo.22820658)
 * **Summary:** This modular mathematical monograph develops Minimal Reality from the axiom of a minimal positive change. Ten structurally connected papers address finite generation, formal dependence, canonical reduction, and the order of finite real-support structures.
 * **Published:** 17 September 2026
 * **Current version:** 1.3
-* **PDF:** [Zenodo record and download](https://zenodo.org/records/22820658)
+* **PDF:** [Open PDF on GitHub](papers/02-minimal-reality-volume-i/Minimal_Reality_Volume_I_The_Minimal_Structure_of_Change.pdf) · [Zenodo record](https://zenodo.org/records/22820658)
 
 ### 3. Formal Frame, Syntactic Support, and Real Determination in Finite Boolean Functions
 * **DOI:** [10.5281/zenodo.22877124](https://doi.org/10.5281/zenodo.22877124)
 * **Summary:** For finite typed Boolean functions, the paper distinguishes the formal frame $N$, determinational support $R_f$, and syntactic support $S_\tau$. It proves that the exact syntactic supports of presentations of a fixed function form the interval $[R_f,N]_\subseteq$ and establishes factorization through the determinational core.
 * **Published:** 21 September 2026
 * **Current version:** 1.4
-* **PDF:** [Zenodo record and download](https://zenodo.org/records/22877124)
+* **PDF:** [Open PDF on GitHub](papers/03-formal-frame-syntactic-support/Formal_Frame,_Syntactic%20Support_and_Real_Determination_in_Finite_Boolean_Functions.pdf) · [Zenodo record](https://zenodo.org/records/22877124)
 
 ### 4. The Common Support Interval of Coordinate Factorization and Term Presentation in Finite Boolean Functions
 * **DOI:** [10.5281/zenodo.23308125](https://doi.org/10.5281/zenodo.23308125)
 * **Summary:** The factorization-support family $\mathfrak{F}_N(f)$ and the presentation-support family $\mathfrak{S}_N(f)$ are shown to coincide as families of coordinate sets: $\mathfrak{F}_N(f)=\mathfrak{S}_N(f)=[R_f,N]_\subseteq$. Factorization and presentation remain distinct constructions.
 * **Published:** 12 October 2026
 * **Current version:** 1.3
-* **PDF:** [Zenodo record and download](https://zenodo.org/records/23308125)
+* **PDF:** [Open PDF on GitHub](papers/04-common-support-interval/The_Common_Support_Interval_of_Coordinate_Factorization_and_Term_Presentation_in_Finite_Boolean_Functions.pdf) · [Zenodo record](https://zenodo.org/records/23308125)
 
 ### 5. Variant 11 as a Minimal Nontrivial Instance of the Common Support Interval
 * **DOI:** [10.5281/zenodo.23485163](https://doi.org/10.5281/zenodo.23485163)
 * **Summary:** This companion note places Variant 11 within the Common Support Interval theorem. It shows that the function has the smallest possible ambient-frame size among nonconstant finite typed Boolean functions with proper determinational support, without claiming uniqueness.
 * **Published:** 20 October 2026
 * **Current version:** 1.0
-* **PDF:** [Zenodo record and download](https://zenodo.org/records/23485163)
+* **PDF:** [Open PDF on GitHub](papers/05-variant-11-minimal-nontrivial-instance/Variant_11_as_a_Minimal_Nontrivial_Instance_of_the_Common_Support_Interval.pdf) · [Zenodo record](https://zenodo.org/records/23485163)
 
 ## Citation (BibTeX)
 Complete BibTeX entries for the five publications listed above are provided in [`metadata/publications.bib`](metadata/publications.bib). The entries identify each publication separately and include its DOI.
