@@ -68,6 +68,6 @@ Please cite the individual publication, not this repository. Use the author, ful
 Zenodo is the primary source for publication metadata and released versions. GitHub serves as an accessible index and additional distribution point. Revised editions will be identified explicitly rather than silently replacing previously cited versions.
 
 ## License and authorship
-The intended standard license for original scientific publications is Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0). The notice in each PDF and its corresponding Zenodo record determines the licensing terms for that released version.
+The mathematical research publications in this repository are made available under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0), unless a specific publication expressly states different terms. Please also consult the licensing notice in each PDF and its corresponding Zenodo record.
 
-See [LICENSE.md](LICENSE.md) for licensing details. Publication under MRT Research does not, by itself, change authorship or transfer copyright ownership.
+**Scientific author:** Piotr Dariusz Wójcik. **Economic copyright holder, publisher, and rights administrator:** MRT Research Ltd. See [LICENSE.md](LICENSE.md) for further details.
